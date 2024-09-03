@@ -7,3 +7,6 @@ plt.plot(x, np.sin(x))
 # to activate the ve- source myvenv/bin/activate
 # install 3rd party libraries- pip3 install matplotlib
 plt.show()
+
+
+print ("Hello there!")
